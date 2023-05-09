@@ -7,13 +7,13 @@
 https://ai100.ai/dev
 ```
 
-![image-20230509174218974](C:\Users\Administrator\Desktop\github\git\AI100GPT\images\image-20230509174218974.png)
+![image-20230509174218974](https://github.com/liangmartin/AI100GPT/blob/master/images/image-20230509174218974.png)
 
 
 
 
 
-![image-20230509174314343](C:\Users\Administrator\Desktop\github\git\AI100GPT\images\image-20230509174218921.png)
+![image-20230509174314343](https://github.com/liangmartin/AI100GPT/blob/master/images/image-20230509174218921.png)
 
 
 
@@ -51,7 +51,7 @@ python V1.py
 
 
 
-![image-20230509174622537](C:\Users\Administrator\Desktop\github\git\AI100GPT\images\image-20230509174622537.png)
+![image-20230509174622537](https://github.com/liangmartin/AI100GPT/blob/master/images/image-20230509174622537.png)
 
 
 
